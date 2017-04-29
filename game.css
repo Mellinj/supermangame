@@ -1,0 +1,17 @@
+canvas {
+    margin-top: 25px;
+    display: block;
+    position: absolute;
+}
+#title {
+    width: 350px;
+    height: 295px;
+    background-image: url(supermanstitle.png);
+    position: relative;
+    left: -50%;
+}
+#position {
+    position: absolute;
+    left: 48%;
+    z-index: 999;
+}
