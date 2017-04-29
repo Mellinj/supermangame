@@ -294,7 +294,7 @@ function gameLoop(){
     hero.update();
 
 
-    backgroundSprite.drawSprite(renderingContext, 0, c.height - 20, 3);
+    backgroundSprite.drawSprite(renderingContext, 0, c.height - 20, 4);
 
 
     if (currentState === states.game) {
